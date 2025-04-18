@@ -1,12 +1,22 @@
 {
-    "welcome": "Welcome",
-    "features": "Features",
-    "influencers": "Influencers",
-    "videos": "Videos",
-    "insights": "Insights",
-    "about": "About",
-    "contact": "Contact",
-    "download": "Download now",
-    "language": "Language"
-  }
-  
+  "welcome": "Welcome",
+  "features": "Features",
+  "influencers": "Influencers",
+  "videos": "Videos",
+  "insights": "Insights",
+  "about": "About",
+  "contact": "Contact",
+  "download": "Download now",
+  "language": "Languages",
+  "bigText": "Meet the Future of Digital Influence",
+  "smallText": "In InSnap, you can discover AI-powered virtual influencers with stunning personalities, engage with their content, voice chat in real-time, or create your own custom avatar to join the revolution.",
+  "googlePlayBtn": "GET IT ON Google Play",
+  "appStoreBtn": "Download on the App Store",
+  "featuresTitle": "Why InSnap Stands Out",
+  "feature1Title": "Stunning Video Content",
+  "feature1Description": "Enjoy high-quality, engaging video posts from our AI influencers, updated daily with fresh, captivating content.",
+  "feature2Title": "Voice Live Chat",
+  "feature2Description": "Have real, meaningful conversations with your favorite AI influencers through our advanced voice interaction system.",
+  "feature3Title": "Create Your Avatar",
+  "feature3Description": "Design and customize your own AI avatar with unique traits, appearances, and personality traits using our intuitive creator tools."
+}

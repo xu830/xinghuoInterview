@@ -14,7 +14,7 @@ import zh from './locale/zh.json';
 
 const i18n = createI18n({
   legacy: false,
-  locale: 'en',  // 默认语言为英语
+  locale: localStorage.getItem('language') || 'en', 
   fallbackLocale: 'en',  // 如果找不到对应的翻译则回退到英语
   messages: {
     en,
